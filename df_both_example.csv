@@ -1,0 +1,11 @@
+subject_id,Filepath,class_label,Modality
+002_S_0295,data/FDG/002_S_0295/pet_mni_1mm_suvr_smooth.nii.gz,0,0
+002_S_0413,data/FDG/002_S_0413/pet_mni_1mm_suvr_smooth.nii.gz,0,0
+003_S_0907,data/FDG/003_S_0907/pet_mni_1mm_suvr_smooth.nii.gz,0,0
+002_S_1155,data/FDG/002_S_1155/pet_mni_1mm_suvr_smooth.nii.gz,1,0
+003_S_1257,data/FDG/003_S_1257/pet_mni_1mm_suvr_smooth.nii.gz,1,0
+002_S_0295,data/AMY/002_S_0295/pet_mni_1mm_suvr_brain_smooth.nii.gz,0,1
+003_S_0907,data/AMY/003_S_0907/pet_mni_1mm_suvr_brain_smooth.nii.gz,0,1
+002_S_1155,data/AMY/002_S_1155/pet_mni_1mm_suvr_brain_smooth.nii.gz,1,1
+004_S_1120,data/AMY/004_S_1120/pet_mni_1mm_suvr_brain_smooth.nii.gz,1,1
+099_S_6476,data/AMY/099_S_6476/pet_mni_1mm_suvr_brain_smooth.nii.gz,0,1
