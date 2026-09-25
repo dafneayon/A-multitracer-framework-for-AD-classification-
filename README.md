@@ -1,9 +1,8 @@
-# A Unified Deep Learning Framework for Alzheimer's Disease Classification Using 18F-FDG and Amyloid PET
+# A Multi-tracer Deep Learning Framework for Alzheimer's Disease Classification Using 18F-FDG and Amyloid PET
 
 This repository contains the full training, evaluation, and explainability pipeline used in:
 
-> **[Paper title]** — *[Authors]*. *[Journal]*, [Year].
-> DOI: [doi]
+> **A Multi-tracer Deep Learning Framework for Alzheimer's Disease Classification Using 18F-FDG and Amyloid PET** — *Dafne G. Ayon, Sara E. Early, Nils D. Forkert*. Manuscript in preparation.
 
 ## Overview
 
@@ -234,12 +233,10 @@ difference of medians (10 000 resamples, seed = 0).
 If you use this code, please cite:
 
 ```bibtex
-@article{[cite_key],
-  title   = {[Title]},
-  author  = {[Authors]},
-  journal = {[Journal]},
-  year    = {[Year]},
-  doi     = {[doi]}
+@unpublished{ayon_multitracer_ad,
+  title  = {A Multi-tracer Deep Learning Framework for Alzheimer's Disease Classification Using 18F-FDG and Amyloid PET},
+  author = {Ayon, Dafne G. and Early, Sara E. and Forkert, Nils D.},
+  note   = {Manuscript in preparation}
 }
 ```
 
@@ -247,4 +244,4 @@ If you use this code, please cite:
 
 ## License
 
-[MIT / Apache-2.0 / CC BY 4.0 — choose one]
+This project is licensed under the [MIT License](LICENSE).
